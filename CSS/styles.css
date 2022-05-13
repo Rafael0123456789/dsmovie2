@@ -83,7 +83,7 @@ a, a:hover {
     align-items: center;
     justify-content: space-between;
     border-radius: 0 0 8px 8px;
-    min-height: 150px;
+    height: 220px;
 }
 
 .dsmovie2-card-description h3 {
@@ -113,6 +113,7 @@ a, a:hover {
     font-size: 12px;
     font-weight: 400;
     color: var(--text-light-gray);
+    margin-bottom: 10px;
 }
 
  .dsmovie2-btn, .dsmovie2-btn:hover { 
@@ -165,7 +166,6 @@ a, a:hover {
 .dsmovie2-form-group h3 {
     font-size: 13px;
     font-weight: 700;
-    margin-bottom: 20px;
 }
 
 .dsmovie2-form-group {
